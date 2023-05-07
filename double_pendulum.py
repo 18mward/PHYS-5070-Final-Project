@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
@@ -75,16 +72,4 @@ plt.xlabel('x (m)')
 plt.ylabel('y (m)')
 plt.legend()
 plt.show()
-
-
-# In[4]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
